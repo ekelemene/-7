@@ -1,0 +1,7 @@
+C:\работы\visual studio\practicum 7\bin\Debug\practicum 7.exe.config
+C:\работы\visual studio\practicum 7\bin\Debug\practicum 7.exe
+C:\работы\visual studio\practicum 7\bin\Debug\practicum 7.pdb
+C:\работы\visual studio\practicum 7\obj\Debug\practicum 7.csproj.AssemblyReference.cache
+C:\работы\visual studio\practicum 7\obj\Debug\practicum 7.csproj.CoreCompileInputs.cache
+C:\работы\visual studio\practicum 7\obj\Debug\practicum 7.exe
+C:\работы\visual studio\practicum 7\obj\Debug\practicum 7.pdb
